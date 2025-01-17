@@ -1,7 +1,5 @@
 # Jogo do Número Secreto
 
-![Jogo do Número Secreto](https://jogo-do-numero-secreto-lyart-ten.vercel.app/favicon.ico)
-
 ## Sobre o Projeto
 
 O **Jogo do Número Secreto** é uma aplicação interativa e divertida desenvolvida para testar sua capacidade de adivinhar números. Com uma interface simples e direta, o jogo desafia você a adivinhar o número secreto gerado aleatoriamente dentro de um intervalo predefinido. O jogo é acessível diretamente em um navegador.
